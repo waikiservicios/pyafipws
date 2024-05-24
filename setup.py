@@ -63,7 +63,7 @@ if "sdist" in sys.argv and os.path.exists("README.md") and sys.platform == "linu
 
 setup(
     name="PyAfipWs",
-    version=__version__,
+    version="3.10b3045",
     description=desc,
     long_description=long_desc,
     author="Mariano Reingart",
